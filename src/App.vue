@@ -121,3 +121,8 @@ nav {
 }
 
 </style>
+
+<!-- https://www.digitalocean.com/community/tutorials/how-to-generate-a-vue-js-single-page-app-with-vue-create
+https://turkuforge.fi/#home
+https://mattfarley.ca/
+-->
